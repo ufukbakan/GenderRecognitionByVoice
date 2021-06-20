@@ -169,7 +169,7 @@ namespace Voice_Recognition
 
         private void creditsButton_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Ufuk Bakan 181180011\nAlican Sucu 171180062", "Hazırlayanlar");
+            MessageBox.Show("Ufuk Bakan 181180011\nAlican Sucu 171180062", "Gazi Üniversitesi");
         }
 
         private void fileLoadButton_MouseEnter(object sender, EventArgs e)
