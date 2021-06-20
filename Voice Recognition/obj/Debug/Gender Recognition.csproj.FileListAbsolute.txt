@@ -1,0 +1,11 @@
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.pdb
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Gender Recognition.csprojAssemblyReference.cache
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Form1.resources
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.Properties.Resources.resources
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Gender Recognition.csproj.GenerateResource.cache
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Gender Recognition.csproj.CoreCompileInputs.cache
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.exe
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice Recognition.pdb
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\bin\Debug\Voice Recognition.exe.config
+C:\Users\Okyanuxian\source\repos\Voice Recognition\Voice Recognition\obj\Debug\Voice_Recognition.DialogForm.resources
